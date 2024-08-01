@@ -2,8 +2,6 @@
 
 > A Pomodoro Timer application
 
-![screenshot](./app_screenshot.png)
-
 TomatoTimer is a pomodoro timer web application that works on desktop & mobile browser. The purpose of this app is to enhance your focus on tasks like studying, writing, or coding. It draws inspiration from the Pomodoro Technique, a time management method created by Francesco Cirillo.
 
 ## This version has following features
